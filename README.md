@@ -95,6 +95,13 @@ const kushagra = {
 
 > My personal C++ learning journey — structured notes covering core concepts, OOP, STL, and DSA patterns. Open-sourced for the community. ⭐ Star it if it helps you!
 
+---
+
+### 🏅 CodeForces Problems
+[![Repo](https://img.shields.io/badge/View%20Solutions-CodeForces%20Problems-a78bfa?style=for-the-badge&logo=github)](https://github.com/kushagra9926/CodeForces_Problems)
+
+> A growing collection of my **CodeForces problem solutions** written in C++. Covers a wide range of topics — from brute force to greedy, math, and beyond. Follow along as I grind competitive programming! 💪
+
 </div>
 
 ---
@@ -143,10 +150,11 @@ const kushagra = {
 ## 🎯 DSA Journey
 
 ```
-📌 Language   : C++
-📌 Focus      : Arrays, Strings, Linked Lists, Trees, Graphs, DP
-📌 Goal       : Master problem-solving for competitive programming & interviews
-📌 Notes Repo : github.com/kushagra9926/CPP
+📌 Language      : C++
+📌 Focus         : Arrays, Strings, Linked Lists, Trees, Graphs, DP
+📌 Goal          : Master problem-solving for competitive programming & interviews
+📌 Notes Repo    : github.com/kushagra9926/CPP
+📌 CF Solutions  : github.com/kushagra9926/CodeForces_Problems
 ```
 
 > *"Every expert was once a beginner. Every pro was once an amateur."*
