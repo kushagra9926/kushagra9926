@@ -76,24 +76,6 @@ const kushagra = {
 
 <div align="center">
 
-### 📈 StockPulse — Stock Trading Platform
-[![Repo](https://img.shields.io/badge/View%20Project-StockPulse-a78bfa?style=for-the-badge&logo=github)](https://github.com/kushagra9926/stock-trading-platform)
-![MERN](https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Real--Time-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-> A full-stack MERN stock trading platform with real-time Socket.io updates, portfolio & P&L tracking, JWT authentication, and smooth order management — paired with an admin dashboard for analytics, user control, and system monitoring.
-
-**Key Features:**
-- ⚡ Real-time stock tracking powered by Socket.io
-- 📊 Portfolio management with P&L-focused views
-- 🔐 JWT-based authentication with token refresh
-- 🛒 Full trading workflows — browse markets, watch symbols, manage orders
-- 🖥️ Separate admin dashboard for users, orders, stocks, analytics & system monitoring
-- 🎨 Responsive UI built with Material UI and Bootstrap
-
----
-
 ### 🎬 Movie Recommendation System
 [![Repo](https://img.shields.io/badge/View%20Project-Movie%20Recommendation%20System-a78bfa?style=for-the-badge&logo=github)](https://github.com/kushagra9926/Movie-Recommendation-System)
 
