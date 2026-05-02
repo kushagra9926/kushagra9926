@@ -117,15 +117,21 @@ const kushagra = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushagra9926&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagra9926&theme=radical" width="100%" alt="Profile Summary"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra9926&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<br/>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushagra9926&theme=radical" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushagra9926&theme=radical" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushagra9926&theme=radical" width="32%" alt="Stats"/>
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kushagra9926&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kushagra9926&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+<br/>
+
+![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagra9926&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -139,16 +145,6 @@ const kushagra = {
 ![Repos](https://img.shields.io/badge/Public%20Repos-Growing%20Constantly-302b63?style=for-the-badge&logo=github&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-C%2B%2B%20Warrior-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Full%20Stack%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagra9926&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
