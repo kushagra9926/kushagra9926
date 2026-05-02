@@ -76,6 +76,13 @@ const kushagra = {
 
 <div align="center">
 
+### 📈 StockTraders — Full Stack Trading Platform
+[![Repo](https://img.shields.io/badge/View%20Project-StockTraders-a78bfa?style=for-the-badge&logo=github)](https://github.com/kushagra9926/StockTraders)
+
+> A production-grade full stack stock trading platform built with the **MERN stack** (MongoDB, Express, React, Node.js). Features real-time price updates via Socket.io, JWT authentication, role-based access control, portfolio tracking, order management, and an admin dashboard. Deployed on AWS. 🚀
+
+---
+
 ### 🎬 Movie Recommendation System
 [![Repo](https://img.shields.io/badge/View%20Project-Movie%20Recommendation%20System-a78bfa?style=for-the-badge&logo=github)](https://github.com/kushagra9926/Movie-Recommendation-System)
 
