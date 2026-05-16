@@ -1,261 +1,462 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=250&section=header&text=Kushagra%20Joshi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=a78bfa&strokeWidth=2&desc=⚡%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver%20⚡&descAlignY=60&descSize=17&descColor=c4b5fd"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=50&lines=🚀+Full+Stack+Web+Developer;💻+MERN+Stack+%7C+TypeScript+%7C+Tailwind;⚔️+DSA+Grinder+in+C%2B%2B;🏅+Competitive+Programmer+on+CodeForces;🌱+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/kushagra-joshi-9b9497258/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/kushagra9926"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:joshikushgra899@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=kushagra9926&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:050014,50:0a0028,80:000814,100:000000&height=280&section=header&text=KUSHAGRA%20JOSHI&fontSize=75&fontColor=00fff0&animation=fadeIn&fontAlignY=42&stroke=00fff0&strokeWidth=1&desc=◈%20Full%20Stack%20Engineer%20%7C%20DSA%20Specialist%20%7C%20Systems%20Builder%20◈&descAlignY=62&descSize=16&descColor=7fffd4"/>
 
 </div>
 
-<br/>
+<div align="center">
 
----
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 👨‍💻 About Me
-
-```typescript
-const kushagra: Developer = {
-  name     : "Kushagra Joshi",
-  role     : "Full Stack Developer",
-  location : "India 🇮🇳",
-  learning : ["Advanced DSA", "System Design", "TypeScript"],
-  building : ["MERN Apps", "CF Solutions", "OSS Notes"],
-  hobbies  : ["Competitive Programming", "Problem Solving"],
-  funFact  : "console.log() is my best debugger 😄",
-  motto    : "Code. Break. Fix. Repeat. 🔁"
-};
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║    > INITIALIZING PORTFOLIO.exe                                          [■■■■]  ║
+║    > LOADING SKILL MODULES ........................................  100% [DONE]  ║
+║    > SYSTEM: KUSHAGRA_JOSHI_v2.0 — ONLINE                                       ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-- 🔭 Building **production-grade full-stack apps** with MERN
-- 🏅 Actively **grinding CodeForces** problems in C++
-- 📚 Sharing **open-source C++ & DSA notes** for the community
-- 🤝 Open to **collaborations** and **freelance** opportunities
-- 📫 Reach me at **joshikushgra899@gmail.com**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
+</div>
 
 <div align="center">
 
-### 🌐 Frontend
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2200&pause=700&color=00FFF0&center=true&vCenter=true&repeat=true&width=700&height=45&lines=⚡+MERN+Stack+%7C+TypeScript+%7C+REST+APIs;🧬+Crafting+production-grade+full-stack+apps;⚔️+DSA+Grinder+—+C%2B%2B+%7C+CodeForces;🚀+Code.+Build.+Deploy.+Repeat.;🌐+Open+Source+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff0&labelColor=0d1117&color=0d1117)](https://www.linkedin.com/in/kushagra-joshi-9b9497258/)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00fff0&labelColor=0d1117&color=0d1117)](https://github.com/kushagra9926)
+[![Email](https://img.shields.io/badge/◈_CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff0&labelColor=0d1117&color=0d1117)](mailto:joshikushgra899@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=kushagra9926&label=UPTIME+SINCE+FIRST+PUSH&color=00fff0&style=for-the-badge&labelColor=0d1117)](https://github.com/kushagra9926)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## `> SYSTEM.INFO`
+
+```ts
+interface Developer {
+  callsign  : string;
+  role      : string;
+  origin    : string;
+  stack     : string[];
+  currently : string[];
+  funFact   : string;
+}
+
+const KUSHAGRA: Developer = {
+  callsign  : "KJ-9926",
+  role      : "Full Stack Developer",
+  origin    : "India 🇮🇳",
+  stack     : ["MongoDB", "Express", "React", "Node.js", "TypeScript"],
+  currently : [
+    "Building production MERN apps",
+    "Grinding CodeForces in C++",
+    "Sharing open-source DSA notes",
+  ],
+  funFact   : "console.log() IS the debugger. 🔍",
+};
+```
+
+<br clear="right"/>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  DIRECTIVES                                                      │
+│                                                                  │
+│  [01] Build scalable, deployed, full-stack products             │
+│  [02] Solve complex algorithmic problems in C++                  │
+│  [03] Contribute to open-source learning resources              │
+│  [04] Open to freelance & collaboration missions                │
+│                                                                  │
+│  REACH:  joshikushgra899@gmail.com                              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> TECH.ARSENAL`
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  MODULE: FRONTEND                                         ║
+╠═══════════════════════════════════════════════════════════╣
+```
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=6"/>
 
-### ⚙️ Backend & Database
+```
+╔═══════════════════════════════════════════════════════════╗
+║  MODULE: BACKEND & DATA                                   ║
+╠═══════════════════════════════════════════════════════════╣
+```
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=6"/>
 
-### 💻 Languages & Tools
+```
+╔═══════════════════════════════════════════════════════════╗
+║  MODULE: TOOLS & LANGUAGES                                ║
+╠═══════════════════════════════════════════════════════════╣
+```
+
 <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,postman&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `> PROJECTS.LOG`
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/kushagra9926/StockTraders">
-        <img src="https://img.shields.io/badge/01-StockTraders-7c3aed?style=for-the-badge&labelColor=0d0221&color=7c3aed" width="100%"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/kushagra9926/StockTraders">
-        <img src="https://img.shields.io/badge/📈_Full_Stack_Trading_Platform-click_to_view-%237c3aed?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        &nbsp;&nbsp;🏆 <strong>Flagship Project</strong><br/>
-        &nbsp;&nbsp;Virtual stock market with $10k starting balance<br/><br/>
-        &nbsp;&nbsp;🔧 <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code><br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Socket.io</code> <code>JWT</code> <code>AWS</code><br/><br/>
-        &nbsp;&nbsp;✅ Real-time stock price simulation<br/>
-        &nbsp;&nbsp;✅ Portfolio & order management<br/>
-        &nbsp;&nbsp;✅ Admin dashboard & analytics<br/>
-        &nbsp;&nbsp;✅ Role-based access + JWT auth<br/><br/>
-        &nbsp;&nbsp;🚀 <strong>Status:</strong> <code>Deployed & Live</code>
-      </p>
-      <a href="https://github.com/kushagra9926/StockTraders">
-        <img src="https://img.shields.io/badge/View%20Repository%20→-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/kushagra9926/Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/02-Movie%20Recommendation%20System-e11d48?style=for-the-badge&labelColor=0d0221&color=e11d48" width="100%"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/kushagra9926/Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/🎬_Smart_Movie_Recommender-click_to_view-%23e11d48?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        &nbsp;&nbsp;🤖 <strong>ML-Powered Recommendations</strong><br/>
-        &nbsp;&nbsp;Personalized movies based on your taste<br/><br/>
-        &nbsp;&nbsp;🔧 <code>Python</code> <code>Machine Learning</code><br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Content-Based Filtering</code><br/><br/>
-        &nbsp;&nbsp;✅ Smart content-based filtering<br/>
-        &nbsp;&nbsp;✅ Personalized suggestions<br/>
-        &nbsp;&nbsp;✅ Data-driven recommendations<br/>
-        &nbsp;&nbsp;✅ Clean & intuitive interface<br/><br/>
-        &nbsp;&nbsp;🚀 <strong>Status:</strong> <code>Completed</code>
-      </p>
-      <a href="https://github.com/kushagra9926/Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/View%20Repository%20→-e11d48?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/kushagra9926/Translator">
-        <img src="https://img.shields.io/badge/03-Translator%20App-0891b2?style=for-the-badge&labelColor=0d0221&color=0891b2" width="100%"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/kushagra9926/Translator">
-        <img src="https://img.shields.io/badge/🌐_Multi--Language_Translator-click_to_view-%230891b2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        &nbsp;&nbsp;🌍 <strong>Real-Time Translation App</strong><br/>
-        &nbsp;&nbsp;Translate across languages instantly<br/><br/>
-        &nbsp;&nbsp;🔧 <code>JavaScript</code> <code>Translation API</code><br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>HTML</code> <code>CSS</code><br/><br/>
-        &nbsp;&nbsp;✅ Multi-language support<br/>
-        &nbsp;&nbsp;✅ Real-time translation<br/>
-        &nbsp;&nbsp;✅ Clean & minimal UI<br/>
-        &nbsp;&nbsp;✅ Fast & accurate results<br/><br/>
-        &nbsp;&nbsp;🚀 <strong>Status:</strong> <code>Completed</code>
-      </p>
-      <a href="https://github.com/kushagra9926/Translator">
-        <img src="https://img.shields.io/badge/View%20Repository%20→-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/kushagra9926/CPP">
-        <img src="https://img.shields.io/badge/04-C%2B%2B%20Notes%20%26%20DSA-16a34a?style=for-the-badge&labelColor=0d0221&color=16a34a" width="100%"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/kushagra9926/CPP">
-        <img src="https://img.shields.io/badge/📚_Open--Source_C%2B%2B_Notes-click_to_view-%2316a34a?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        &nbsp;&nbsp;📖 <strong>Open-Source Learning Resource</strong><br/>
-        &nbsp;&nbsp;C++ notes for the whole community<br/><br/>
-        &nbsp;&nbsp;🔧 <code>C++</code> <code>OOP</code> <code>STL</code><br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>DSA</code> <code>Algorithms</code><br/><br/>
-        &nbsp;&nbsp;✅ Core C++ concepts & OOP<br/>
-        &nbsp;&nbsp;✅ STL deep-dive<br/>
-        &nbsp;&nbsp;✅ DSA patterns & techniques<br/>
-        &nbsp;&nbsp;✅ Beginner to advanced<br/><br/>
-        &nbsp;&nbsp;⭐ <strong>Star it if it helps you!</strong>
-      </p>
-      <a href="https://github.com/kushagra9926/CPP">
-        <img src="https://img.shields.io/badge/View%20Repository%20→-16a34a?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagra9926&theme=radical" width="100%" alt="Profile Summary"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushagra9926&theme=radical" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushagra9926&theme=radical" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushagra9926&theme=radical" width="32%" alt="Stats"/>
+<!--  ═══════════════════════  PROJECT 01  ═══════════════════════  -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:061a2e,100:0d1117&height=80&text=📈%20%20StockTraders&fontSize=34&fontColor=00fff0&animation=fadeIn&fontAlignY=62&desc=01%20/%2004%20%20◈%20%20MERN%20%7C%20JWT%20%7C%20Socket.io%20%7C%20Deployed&descSize=13&descColor=4a9eff&descAlignY=85" width="100%"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+**Virtual stock trading platform** — start with $10K capital, trade in real time, and track every rupee of P&L.
+
+```
+  ● STATUS   →   LIVE & DEPLOYED
+  ● STACK    →   MongoDB · Express · React · Node.js
+  ● AUTH     →   JWT + Refresh Token Rotation
+  ● REALTIME →   Socket.io price feeds
+  ● ROLES    →   User dashboard + Admin panel
+  ● INFRA    →   Render (API) · Vercel (Frontend)
+```
+
+</td>
+<td width="45%">
+
+| FEATURE | DETAIL |
+|---------|--------|
+| 💰 Capital | Virtual $10,000 start |
+| 📊 Portfolio | Live P&L tracking |
+| 🔐 Auth | Role-based access |
+| 🖥️ Admin | Analytics dashboard |
+| 📜 History | Full transaction log |
+| ☁️ Deploy | Render + Vercel |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4ade80)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=4ade80)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=e879f9)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socket.io&logoColor=00fff0)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/◈──_STOCKTRADERS_──◈_VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=00fff0&labelColor=061a2e)](https://github.com/kushagra9926/StockTraders)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00fff0&height=1&section=header" width="60%"/></div>
+
+<br/>
+
+<!--  ═══════════════════════  PROJECT 02  ═══════════════════════  -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a0d2e,100:0d1117&height=80&text=🎬%20%20Movie%20Recommendation%20System&fontSize=30&fontColor=e879f9&animation=fadeIn&fontAlignY=62&desc=02%20/%2004%20%20◈%20%20Python%20%7C%20Machine%20Learning%20%7C%20Scikit-learn&descSize=13&descColor=c084fc&descAlignY=85" width="100%"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+**AI-powered film recommendation engine** — content-based filtering that learns your taste and surfaces movies you'll actually want to watch.
+
+```
+  ● STATUS   →   COMPLETE
+  ● STACK    →   Python · Pandas · Scikit-learn
+  ● ENGINE   →   Content-based collaborative filtering
+  ● METHOD   →   TF-IDF vectorization + cosine similarity
+  ● DATA     →   Large-scale movie metadata corpus
+  ● OUTPUT   →   Ranked personalized recommendations
+```
+
+</td>
+<td width="45%">
+
+| FEATURE | DETAIL |
+|---------|--------|
+| 🤖 ML Model | Content-based filtering |
+| 🔢 Vectorize | TF-IDF + cosine similarity |
+| 🎯 Accuracy | Personalized ranking |
+| 📦 Dataset | TMDB movie corpus |
+| ⚡ Speed | Near-instant results |
+| 🧹 Pipeline | Clean preprocessing |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=facc15)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=e879f9)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=f97316)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=60a5fa)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/◈──_MOVIE_REC_──◈_VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=e879f9&labelColor=1a0d2e)](https://github.com/kushagra9926/Movie-Recommendation-System)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=e879f9&height=1&section=header" width="60%"/></div>
+
+<br/>
+
+<!--  ═══════════════════════  PROJECT 03  ═══════════════════════  -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:061828,100:0d1117&height=80&text=🌐%20%20Translator%20App&fontSize=34&fontColor=38bdf8&animation=fadeIn&fontAlignY=62&desc=03%20/%2004%20%20◈%20%20JavaScript%20%7C%20REST%20API%20%7C%20Vanilla%20Frontend&descSize=13&descColor=7dd3fc&descAlignY=85" width="100%"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+**Real-time multi-language translator** — instant browser-based translation with zero friction and a clean, minimal interface.
+
+```
+  ● STATUS   →   COMPLETE
+  ● STACK    →   Vanilla JS · HTML · CSS
+  ● API      →   Translation REST API
+  ● SUPPORT  →   Multi-language pairs
+  ● UX       →   Copy to clipboard, responsive
+  ● RENDER   →   Client-side, no backend needed
+```
+
+</td>
+<td width="45%">
+
+| FEATURE | DETAIL |
+|---------|--------|
+| 🌍 Languages | Multi-language support |
+| ⚡ Speed | Real-time output |
+| 📋 Copy | One-click clipboard |
+| 📱 Design | Fully responsive |
+| 🎨 UI | Clean minimal interface |
+| 🔌 API | RESTful integration |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=facc15)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=38bdf8)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=postman&logoColor=f97316)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/◈──_TRANSLATOR_──◈_VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=061828)](https://github.com/kushagra9926/Translator)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=1&section=header" width="60%"/></div>
+
+<br/>
+
+<!--  ═══════════════════════  PROJECT 04  ═══════════════════════  -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:061a0e,100:0d1117&height=80&text=⚔️%20%20C%2B%2B%20%26%20DSA%20Notes&fontSize=34&fontColor=4ade80&animation=fadeIn&fontAlignY=62&desc=04%20/%2004%20%20◈%20%20C%2B%2B%20%7C%20OOP%20%7C%20STL%20%7C%20Algorithms%20%7C%20Open%20Source&descSize=13&descColor=86efac&descAlignY=85" width="100%"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+**Open-source C++ & DSA knowledge base** — a community resource covering every concept from core syntax to advanced competitive programming patterns.
+
+```
+  ● STATUS   →   OPEN SOURCE  ⭐
+  ● LANG     →   C++ (C++17)
+  ● COVERS   →   Beginner → Competitive level
+  ● TOPICS   →   OOP · STL · Trees · Graphs · DP
+  ● FORMAT   →   Annotated code + explanations
+  ● GOAL     →   Interview prep + CP mastery
+```
+
+</td>
+<td width="45%">
+
+| MODULE | COVERAGE |
+|--------|----------|
+| 📖 Foundations | Core C++ · OOP |
+| 📦 STL | Containers · Iterators |
+| 🌲 Trees & Graphs | BFS · DFS · Dijkstra |
+| 🧠 DP | Memoization · Tabulation |
+| 🔄 Algorithms | Sort · Search · Greedy |
+| 🏅 CP Patterns | CodeForces strategies |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=4ade80)
+![STL](https://img.shields.io/badge/STL-0d1117?style=flat-square&logo=cplusplus&logoColor=86efac)
+![CodeForces](https://img.shields.io/badge/CodeForces-0d1117?style=flat-square&logo=codeforces&logoColor=4ade80)
+![Open Source](https://img.shields.io/badge/Open_Source-0d1117?style=flat-square&logo=github&logoColor=4ade80)
+
+<br/>
+
+[![View DSA Notes](https://img.shields.io/badge/◈──_CPP_NOTES_──◈_VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=4ade80&labelColor=061a0e)](https://github.com/kushagra9926/CPP)
+[![CodeForces Solutions](https://img.shields.io/badge/◈──_CODEFORCES_SOLUTIONS-0d1117?style=for-the-badge&logo=codeforces&logoColor=4ade80&labelColor=061a0e)](https://github.com/kushagra9926/CodeForces_Problems)
+
+</div>
+
+<br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=1&section=header" width="60%"/></div>
+
+---
+
+## `> PERFORMANCE.METRICS`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagra9926&theme=github_dark" width="100%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushagra9926&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushagra9926&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushagra9926&theme=github_dark" width="32%"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kushagra9926&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kushagra9926&theme=dark&hide_border=false&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=620&border=00fff022&background=0d1117&ring=00fff0&fire=e879f9&currStreakLabel=00fff0&sideLabels=7fffd4&dates=555555&stroke=00fff011)](https://git.io/streak-stats)
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagra9926&theme=react-dark&hide_border=true&area=true&custom_title=📈%20Contribution%20Graph&area_color=7c3aed&color=a78bfa&line=7c3aed&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagra9926&theme=react-dark&hide_border=true&area=true&custom_title=◈%20COMMIT%20ACTIVITY%20GRAPH&area_color=00fff0&color=7fffd4&line=00fff0&point=ffffff&bg_color=0d1117)
 
 </div>
 
 ---
 
-## ⚔️ DSA Journey
+## `> DSA.STATUS`
 
 <div align="center">
 
-| 📌 | Detail |
-|---|---|
-| **Language** | C++ |
-| **Platform** | CodeForces 🏅 |
-| **Topics** | Arrays · Strings · Linked Lists · Trees · Graphs · DP · Greedy |
-| **Goal** | Competitive Programming & Interview Mastery |
-| **Notes** | [github.com/kushagra9926/CPP](https://github.com/kushagra9926/CPP) |
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         DSA COMBAT RECORD                                    │
+├──────────────────────────┬───────────────────────────────────────────────────┤
+│  WEAPON                  │  C++                                              │
+│  ARENA                   │  CodeForces  ⚔️                                   │
+│  DOMAINS                 │  Arrays · Strings · LL · Trees · Graphs · DP      │
+│  OBJECTIVE               │  Competitive Programming + Interview Mastery      │
+│  NOTES REPO              │  github.com/kushagra9926/CPP                      │
+│  SOLUTIONS REPO          │  github.com/kushagra9926/CodeForces_Problems      │
+└──────────────────────────┴───────────────────────────────────────────────────┘
+```
 
-<br/>
-
-> *"Every expert was once a beginner. Every pro was once an amateur."*
+> *"The expert in anything was once a beginner who refused to quit."*
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## `> BADGES.ACQUIRED`
 
 <div align="center">
 
-![MERN](https://img.shields.io/badge/🛠️%20MERN-Full%20Stack%20Dev-7c3aed?style=for-the-badge)
-![DSA](https://img.shields.io/badge/⚔️%20DSA-C%2B%2B%20Warrior-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CF](https://img.shields.io/badge/🏅%20CodeForces-Active%20Grinder-EA4335?style=for-the-badge)
-![OSS](https://img.shields.io/badge/📚%20Open%20Source-Note%20Sharer-22C55E?style=for-the-badge)
+![](https://img.shields.io/badge/MERN-Full_Stack_Dev-00fff0?style=for-the-badge&labelColor=0d1117&logo=mongodb&logoColor=00fff0)
+![](https://img.shields.io/badge/C%2B%2B-DSA_Warrior-00b4d8?style=for-the-badge&labelColor=0d1117&logo=cplusplus&logoColor=00b4d8)
+![](https://img.shields.io/badge/CODEFORCES-Active_Grinder-e879f9?style=for-the-badge&labelColor=0d1117&logo=codeforces&logoColor=e879f9)
+![](https://img.shields.io/badge/OPEN_SOURCE-Note_Sharer-4ade80?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=4ade80)
+![](https://img.shields.io/badge/DEPLOYED-Production_Apps-f59e0b?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=f59e0b)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `> ESTABLISH.COMMS`
 
 <div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   OPEN CHANNELS                                      ║
+║                                                      ║
+║   ◈ Collaborations       ◈ Freelance Projects        ║
+║   ◈ Open Source          ◈ DSA discussions           ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 <a href="https://www.linkedin.com/in/kushagra-joshi-9b9497258/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/◈_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff0&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="mailto:joshikushgra899@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/◈_Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff0&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://github.com/kushagra9926">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/◈_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00fff0&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
 
-### 💜 If my projects or notes helped you — drop a ⭐ on the repo!
+### `// If my projects or notes helped you — drop a ⭐ on the repo. It means a lot.`
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=130&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:000814,60:050014,100:000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
