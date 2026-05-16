@@ -70,80 +70,107 @@ const kushagra: Developer = {
 <div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 StockTraders
-[![StockTraders](https://img.shields.io/badge/🔗%20View%20Project-StockTraders-7c3aed?style=for-the-badge)](https://github.com/kushagra9926/StockTraders)
-
-**Production-grade virtual stock trading platform**
-
-```
-🔧 Stack   : MERN + Socket.io + JWT + AWS
-✨ Features : Real-time prices, Portfolio tracking,
-             Admin dashboard, Role-based auth
-🚀 Status  : Deployed & Live
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommendation System
-[![Movie](https://img.shields.io/badge/🔗%20View%20Project-Movie%20Recommender-7c3aed?style=for-the-badge)](https://github.com/kushagra9926/Movie-Recommendation-System)
-
-**Smart data-driven movie recommendation engine**
-
-```
-🔧 Stack   : Python + ML algorithms
-✨ Features : Personalized suggestions,
-             Content-based filtering
-🚀 Status  : Completed
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Translator App
-[![Translator](https://img.shields.io/badge/🔗%20View%20Project-Translator-7c3aed?style=for-the-badge)](https://github.com/kushagra9926/Translator)
-
-**Real-time multi-language translation app**
-
-```
-🔧 Stack   : JavaScript + Translation API
-✨ Features : Multi-language support,
-             Clean UI, Fast results
-🚀 Status  : Completed
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 CodeForces Solutions
-[![CF](https://img.shields.io/badge/🔗%20View%20Solutions-CodeForces-7c3aed?style=for-the-badge)](https://github.com/kushagra9926/CodeForces_Problems)
-
-**Growing archive of competitive programming solutions**
-
-```
-🔧 Lang    : C++
-✨ Covers  : Brute Force, Greedy, Math,
-             Sorting, DP & more
-🚀 Status  : Actively Updated 🔥
-```
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 📚 C++ Notes & DSA
-[![CPP](https://img.shields.io/badge/🔗%20View%20Notes-C%2B%2B%20Notes-7c3aed?style=for-the-badge)](https://github.com/kushagra9926/CPP)
-
-**Open-source C++ learning notes — OOP, STL, DSA patterns. ⭐ Star if it helps!**
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kushagra9926/StockTraders">
+        <img src="https://img.shields.io/badge/01-StockTraders-7c3aed?style=for-the-badge&labelColor=0d0221&color=7c3aed" width="100%"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/kushagra9926/StockTraders">
+        <img src="https://img.shields.io/badge/📈_Full_Stack_Trading_Platform-click_to_view-%237c3aed?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        &nbsp;&nbsp;🏆 <strong>Flagship Project</strong><br/>
+        &nbsp;&nbsp;Virtual stock market with $10k starting balance<br/><br/>
+        &nbsp;&nbsp;🔧 <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Socket.io</code> <code>JWT</code> <code>AWS</code><br/><br/>
+        &nbsp;&nbsp;✅ Real-time stock price simulation<br/>
+        &nbsp;&nbsp;✅ Portfolio & order management<br/>
+        &nbsp;&nbsp;✅ Admin dashboard & analytics<br/>
+        &nbsp;&nbsp;✅ Role-based access + JWT auth<br/><br/>
+        &nbsp;&nbsp;🚀 <strong>Status:</strong> <code>Deployed & Live</code>
+      </p>
+      <a href="https://github.com/kushagra9926/StockTraders">
+        <img src="https://img.shields.io/badge/View%20Repository%20→-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kushagra9926/Movie-Recommendation-System">
+        <img src="https://img.shields.io/badge/02-Movie%20Recommendation%20System-e11d48?style=for-the-badge&labelColor=0d0221&color=e11d48" width="100%"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/kushagra9926/Movie-Recommendation-System">
+        <img src="https://img.shields.io/badge/🎬_Smart_Movie_Recommender-click_to_view-%23e11d48?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        &nbsp;&nbsp;🤖 <strong>ML-Powered Recommendations</strong><br/>
+        &nbsp;&nbsp;Personalized movies based on your taste<br/><br/>
+        &nbsp;&nbsp;🔧 <code>Python</code> <code>Machine Learning</code><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Content-Based Filtering</code><br/><br/>
+        &nbsp;&nbsp;✅ Smart content-based filtering<br/>
+        &nbsp;&nbsp;✅ Personalized suggestions<br/>
+        &nbsp;&nbsp;✅ Data-driven recommendations<br/>
+        &nbsp;&nbsp;✅ Clean & intuitive interface<br/><br/>
+        &nbsp;&nbsp;🚀 <strong>Status:</strong> <code>Completed</code>
+      </p>
+      <a href="https://github.com/kushagra9926/Movie-Recommendation-System">
+        <img src="https://img.shields.io/badge/View%20Repository%20→-e11d48?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kushagra9926/Translator">
+        <img src="https://img.shields.io/badge/03-Translator%20App-0891b2?style=for-the-badge&labelColor=0d0221&color=0891b2" width="100%"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/kushagra9926/Translator">
+        <img src="https://img.shields.io/badge/🌐_Multi--Language_Translator-click_to_view-%230891b2?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        &nbsp;&nbsp;🌍 <strong>Real-Time Translation App</strong><br/>
+        &nbsp;&nbsp;Translate across languages instantly<br/><br/>
+        &nbsp;&nbsp;🔧 <code>JavaScript</code> <code>Translation API</code><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>HTML</code> <code>CSS</code><br/><br/>
+        &nbsp;&nbsp;✅ Multi-language support<br/>
+        &nbsp;&nbsp;✅ Real-time translation<br/>
+        &nbsp;&nbsp;✅ Clean & minimal UI<br/>
+        &nbsp;&nbsp;✅ Fast & accurate results<br/><br/>
+        &nbsp;&nbsp;🚀 <strong>Status:</strong> <code>Completed</code>
+      </p>
+      <a href="https://github.com/kushagra9926/Translator">
+        <img src="https://img.shields.io/badge/View%20Repository%20→-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kushagra9926/CPP">
+        <img src="https://img.shields.io/badge/04-C%2B%2B%20Notes%20%26%20DSA-16a34a?style=for-the-badge&labelColor=0d0221&color=16a34a" width="100%"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/kushagra9926/CPP">
+        <img src="https://img.shields.io/badge/📚_Open--Source_C%2B%2B_Notes-click_to_view-%2316a34a?style=flat-square&logo=github&logoColor=white&labelColor=1a0533"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        &nbsp;&nbsp;📖 <strong>Open-Source Learning Resource</strong><br/>
+        &nbsp;&nbsp;C++ notes for the whole community<br/><br/>
+        &nbsp;&nbsp;🔧 <code>C++</code> <code>OOP</code> <code>STL</code><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>DSA</code> <code>Algorithms</code><br/><br/>
+        &nbsp;&nbsp;✅ Core C++ concepts & OOP<br/>
+        &nbsp;&nbsp;✅ STL deep-dive<br/>
+        &nbsp;&nbsp;✅ DSA patterns & techniques<br/>
+        &nbsp;&nbsp;✅ Beginner to advanced<br/><br/>
+        &nbsp;&nbsp;⭐ <strong>Star it if it helps you!</strong>
+      </p>
+      <a href="https://github.com/kushagra9926/CPP">
+        <img src="https://img.shields.io/badge/View%20Repository%20→-16a34a?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -185,7 +212,6 @@ const kushagra: Developer = {
 | **Topics** | Arrays · Strings · Linked Lists · Trees · Graphs · DP · Greedy |
 | **Goal** | Competitive Programming & Interview Mastery |
 | **Notes** | [github.com/kushagra9926/CPP](https://github.com/kushagra9926/CPP) |
-| **Solutions** | [github.com/kushagra9926/CodeForces_Problems](https://github.com/kushagra9926/CodeForces_Problems) |
 
 <br/>
 
