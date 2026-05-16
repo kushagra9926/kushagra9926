@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:050014,50:0a0028,80:000814,100:000000&height=280&section=header&text=KUSHAGRA%20JOSHI&fontSize=75&fontColor=00fff0&animation=fadeIn&fontAlignY=42&stroke=00fff0&strokeWidth=1&desc=◈%20Full%20Stack%20Engineer%20%7C%20DSA%20Specialist%20%7C%20Systems%20Builder%20◈&descAlignY=62&descSize=16&descColor=7fffd4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,20:050014,50:0a0028,80:000814,100:000000&amp;height=280&amp;section=header&amp;text=KUSHAGRA%20JOSHI&amp;fontSize=75&amp;fontColor=00fff0&amp;animation=fadeIn&amp;fontAlignY=42&amp;stroke=00fff0&amp;strokeWidth=1&amp;desc=◈%20Full%20Stack%20Engineer%20%7C%20DSA%20Specialist%20%7C%20Systems%20Builder%20◈&amp;descAlignY=62&amp;descSize=16&amp;descColor=7fffd4"/>
 
 </div>
 
@@ -113,7 +113,7 @@ const KUSHAGRA: Developer = {
 ## `> PROJECTS.LOG`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,50:0a1628,100:0d1117&amp;height=3&amp;section=header" width="100%"/>
 </div>
 
 <br/>
@@ -122,7 +122,7 @@ const KUSHAGRA: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:061a2e,100:0d1117&height=80&text=📈%20%20StockTraders&fontSize=34&fontColor=00fff0&animation=fadeIn&fontAlignY=62&desc=01%20/%2004%20%20◈%20%20MERN%20%7C%20JWT%20%7C%20Socket.io%20%7C%20Deployed&descSize=13&descColor=4a9eff&descAlignY=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,40:061a2e,100:0d1117&amp;height=80&amp;text=%F0%9F%93%88%20%20StockTraders&amp;fontSize=34&amp;fontColor=00fff0&amp;animation=fadeIn&amp;fontAlignY=62&amp;desc=01%20%2F%2004%20%20---%20%20MERN%20%7C%20JWT%20%7C%20Socket.io%20%7C%20Deployed&amp;descSize=13&amp;descColor=4a9eff&amp;descAlignY=85" width="100%"/>
 
 </div>
 
@@ -177,7 +177,7 @@ const KUSHAGRA: Developer = {
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00fff0&height=1&section=header" width="60%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=00fff0&amp;height=1&amp;section=header" width="60%"/></div>
 
 <br/>
 
@@ -185,7 +185,7 @@ const KUSHAGRA: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a0d2e,100:0d1117&height=80&text=🎬%20%20Movie%20Recommendation%20System&fontSize=30&fontColor=e879f9&animation=fadeIn&fontAlignY=62&desc=02%20/%2004%20%20◈%20%20Python%20%7C%20Machine%20Learning%20%7C%20Scikit-learn&descSize=13&descColor=c084fc&descAlignY=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,40:1a0d2e,100:0d1117&amp;height=80&amp;text=%F0%9F%8E%AC%20%20Movie%20Recommendation%20System&amp;fontSize=28&amp;fontColor=e879f9&amp;animation=fadeIn&amp;fontAlignY=62&amp;desc=02%20%2F%2004%20%20---%20%20Python%20%7C%20Machine%20Learning%20%7C%20Scikit-learn&amp;descSize=13&amp;descColor=c084fc&amp;descAlignY=85" width="100%"/>
 
 </div>
 
@@ -237,7 +237,7 @@ const KUSHAGRA: Developer = {
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=e879f9&height=1&section=header" width="60%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=e879f9&amp;height=1&amp;section=header" width="60%"/></div>
 
 <br/>
 
@@ -245,7 +245,7 @@ const KUSHAGRA: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:061828,100:0d1117&height=80&text=🌐%20%20Translator%20App&fontSize=34&fontColor=38bdf8&animation=fadeIn&fontAlignY=62&desc=03%20/%2004%20%20◈%20%20JavaScript%20%7C%20REST%20API%20%7C%20Vanilla%20Frontend&descSize=13&descColor=7dd3fc&descAlignY=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,40:061828,100:0d1117&amp;height=80&amp;text=%F0%9F%8C%90%20%20Translator%20App&amp;fontSize=34&amp;fontColor=38bdf8&amp;animation=fadeIn&amp;fontAlignY=62&amp;desc=03%20%2F%2004%20%20---%20%20JavaScript%20%7C%20REST%20API%20%7C%20Vanilla%20Frontend&amp;descSize=13&amp;descColor=7dd3fc&amp;descAlignY=85" width="100%"/>
 
 </div>
 
@@ -297,7 +297,7 @@ const KUSHAGRA: Developer = {
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=1&section=header" width="60%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=38bdf8&amp;height=1&amp;section=header" width="60%"/></div>
 
 <br/>
 
@@ -305,7 +305,7 @@ const KUSHAGRA: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:061a0e,100:0d1117&height=80&text=⚔️%20%20C%2B%2B%20%26%20DSA%20Notes&fontSize=34&fontColor=4ade80&animation=fadeIn&fontAlignY=62&desc=04%20/%2004%20%20◈%20%20C%2B%2B%20%7C%20OOP%20%7C%20STL%20%7C%20Algorithms%20%7C%20Open%20Source&descSize=13&descColor=86efac&descAlignY=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,40:061a0e,100:0d1117&amp;height=80&amp;text=%E2%9A%94%EF%B8%8F%20%20CPP%20%26%20DSA%20Notes&amp;fontSize=34&amp;fontColor=4ade80&amp;animation=fadeIn&amp;fontAlignY=62&amp;desc=04%20%2F%2004%20%20---%20%20C%2B%2B%20%7C%20OOP%20%7C%20STL%20%7C%20Algorithms%20%7C%20Open%20Source&amp;descSize=13&amp;descColor=86efac&amp;descAlignY=85" width="100%"/>
 
 </div>
 
@@ -357,7 +357,7 @@ const KUSHAGRA: Developer = {
 </div>
 
 <br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=1&section=header" width="60%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=4ade80&amp;height=1&amp;section=header" width="60%"/></div>
 
 ---
 
@@ -459,4 +459,4 @@ const KUSHAGRA: Developer = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:000814,60:050014,100:000000&height=120&section=footer&animation=fadeIn&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,30:000814,60:050014,100:000000&amp;height=120&amp;section=footer&amp;animation=fadeIn&amp;reversal=true"/>
