@@ -1,251 +1,320 @@
-<!-- ============================================================ -->
-<!--              KUSHAGRA JOSHI — GITHUB PROFILE README          -->
-<!-- ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            KUSHAGRA JOSHI  ·  GITHUB PROFILE README         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,60:162032,100:0d1117&height=260&section=header&text=Kushagra%20Joshi&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Explorer%20%7C%20DSA%20Enthusiast&descSize=18&descAlignY=58&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,25:0d2137,50:0a3d62,75:0d2137,100:0a0e1a&height=300&section=header&text=Kushagra%20Joshi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=4fc3f7&strokeWidth=1&desc=🚀%20Full%20Stack%20Developer%20%7C%20🧠%20ML%20Explorer%20%7C%20⚔️%20DSA%20Enthusiast&descSize=17&descAlignY=60&descColor=b0bec5"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=4FC3F7&center=true&vCenter=true&width=700&lines=🔨+MERN+%7C+JavaScript+%7C+Tailwind+%7C+Socket.io;🧠+Explainable+AI+for+real-world+FinTech+impact;📦+Shipping+projects+%26+sharing+knowledge+daily)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=🚀+Building+production-grade+MERN+applications;🧠+Explainable+AI+%26+ML+for+real-world+impact;⚔️+Grinding+DSA+%26+CodeForces+daily+in+C%2B%2B;📚+Open-source+contributor+%26+knowledge+sharer;🌱+Always+learning%2C+always+shipping)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-joshi-9b9497258/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagra9926)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshikushgra899@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=kushagra9926&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kushagra9926)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-joshi-9b9497258/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagra9926)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshikushgra899@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/)
+![Visitors](https://komarev.com/ghpvc/?username=kushagra9926&color=4fc3f7&style=for-the-badge&label=VISITORS)
 
 </div>
 
 ---
 
-<!-- ── ABOUT ME ─────────────────────────────────────────────── -->
+<!-- ════════════ ABOUT ME ════════════ -->
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340"/>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-### `$ whoami`
+### 💫 &nbsp;About Me
 
-```typescript
-const kushagra = {
-  name      : "Kushagra Joshi",
-  role      : "Full Stack Developer & ML Explorer",
-  location  : "India 🇮🇳",
-  stack     : ["MERN", "TypeScript", "Tailwind", "Python"],
-  interests : ["Explainable AI", "FinTech", "Competitive Prog."],
-  learning  : ["System Design", "Advanced DSA", "XAI"],
-  openTo    : ["Internships", "Collabs", "Open Source"],
-  motto     : "Ship fast. Learn faster. 🚀"
-};
+```javascript
+// > node kushagra.js
+
+const me = {
+  name    : "Kushagra Joshi",
+  title   : "Full Stack Developer & ML Explorer",
+  from    : "India 🇮🇳",
+  tech    : ["MERN", "JavaScript", "Python", "C++"],
+  mantra  : "Build. Break. Learn. Repeat. 🔁"
+}
 ```
 
-<br/>
+</td>
+<td width="45%" align="center" valign="top">
 
-🔭 &nbsp;Building **full-stack & ML apps** end-to-end  
-🧠 &nbsp;Researching **Explainable AI** for credit scoring   
-📚 &nbsp;Sharing **open-source** C++ & DSA notes  
-📬 &nbsp;**joshikushgra899@gmail.com**
+<br/><br/>
 
-<br clear="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+
+<br/><br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ── TECH STACK ──────────────────────────────────────────── -->
+<!-- ════════════ TECH STACK ════════════ -->
 
-<h2 align="center">🛠️ &nbsp;Tech Stack</h2>
+<h2 align="center">🛠️ &nbsp;Tech Arsenal</h2>
+
 <br/>
+
 <div align="center">
 
-**🌐 &nbsp;Frontend**<br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark)](https://skillicons.dev)
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br/>
+**🌐 Frontend**
 
-**⚙️ &nbsp;Backend & Database**<br/>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=2)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,tailwind&theme=dark&perline=2)](https://skillicons.dev)
 
-<br/>
+</td>
+<td align="center" width="25%">
 
-**🤖 &nbsp;ML & Data Science**<br/>
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
+**⚙️ Backend**
 
-<br/>
+[![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2)](https://skillicons.dev)
 
-**🧰 &nbsp;Languages & Tools**<br/>
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+</td>
+<td align="center" width="25%">
+
+**🤖 ML / Data**
+
+[![Skills](https://skillicons.dev/icons?i=python,sklearn&theme=dark&perline=2)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2)](https://skillicons.dev)
+
+</td>
+<td align="center" width="25%">
+
+**🧰 Tools**
+
+[![Skills](https://skillicons.dev/icons?i=cpp,git&theme=dark&perline=2)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=github,vscode&theme=dark&perline=2)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ── PROJECTS ────────────────────────────────────────────── -->
+<!-- ════════════ PROJECTS ════════════ -->
 
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
 <br/>
 
-<!-- ─────────── PROJECT 01 ─────────── -->
 <div align="center">
 
-[![p1](https://img.shields.io/badge/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬-0d1117?style=flat-square)](#)
+<!-- ┌── PROJECT 1 ──────────────────────────────────────────────┐ -->
 
-`01 / 05` &nbsp;**📈 STOCKTRADERS** &nbsp;
-[![live](https://img.shields.io/badge/●%20LIVE-00D26A?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/StockTraders)
-[![mern](https://img.shields.io/badge/MERN-Stack-58A6FF?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/StockTraders)
-[![socket](https://img.shields.io/badge/Socket.io-Real--time-58A6FF?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/StockTraders)
-[![aws](https://img.shields.io/badge/AWS-Deployed-58A6FF?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/StockTraders)
-
-</div>
-
-```
-  Virtual stock trading platform — start with $10,000 & trade like a pro
-
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  ⚡ Real-time prices      Socket.io live feed    🔐 JWT + RBAC  ║
-  ║  📊 Portfolio tracking    Order management       ☁️  AWS deploy  ║
-  ║  🖥️  Admin dashboard       Analytics panel        🔄 Auth tokens ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  MongoDB · Express · React · Node.js · Socket.io · JWT · AWS
-```
-
-<div align="center">
-
-[![btn](https://img.shields.io/badge/⌨%20EXPLORE%20REPOSITORY%20→-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kushagra9926/StockTraders)
-
-</div>
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────-0a0e1a?style=flat-square" width="100%"/>
 
 <br/>
 
-<!-- ─────────── PROJECT 02 ─────────── -->
-<div align="center">
+<img src="https://img.shields.io/badge/PROJECT%20%2301-STOCKTRADERS-0a0e1a?style=for-the-badge&labelColor=0a3d62&color=0a0e1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/●%20LIVE%20&%20DEPLOYED-00c853?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-4fc3f7?style=flat-square&labelColor=0a0e1a&logo=react&logoColor=61dafb"/>
+<img src="https://img.shields.io/badge/Socket.io-4fc3f7?style=flat-square&labelColor=0a0e1a&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/AWS-4fc3f7?style=flat-square&labelColor=0a0e1a&logo=amazonaws&logoColor=FF9900"/>
 
-[![p2](https://img.shields.io/badge/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬-0d1117?style=flat-square)](#)
-
-`02 / 05` &nbsp;**🧠 EXPLAINABLE CREDIT SCORING** &nbsp;
-[![research](https://img.shields.io/badge/●%20ML%20RESEARCH-E3B341?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Explainable-Credit-Scoring)
-[![xai](https://img.shields.io/badge/SHAP-Explainability-E3B341?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Explainable-Credit-Scoring)
-[![pso](https://img.shields.io/badge/PSO-Tuned-E3B341?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Explainable-Credit-Scoring)
-[![ieee](https://img.shields.io/badge/IEEE-Paper%20Target-E3B341?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Explainable-Credit-Scoring)
+<br/><br/>
 
 </div>
 
 ```
-  Transparent ML credit scoring using PSO-tuned Gradient Boosting + SHAP
+📈  Virtual Stock Trading Platform — Start with $10,000 & trade like a pro
 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🧠 Gradient Boosting     PSO hyperparameter tuning  📊 SHAP    ║
-  ║  🔍 Feature explanations  UCI German Credit dataset  🎯 XAI     ║
-  ║  📄 IEEE paper target     FinTech application focus  🏆 Robust  ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  Python · Scikit-learn · SHAP · PSO · Pandas · Matplotlib
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                      ✦  CORE FEATURES  ✦                         ║
+ ╠═══════════════════════════════════════════════════════════════════╣
+ ║  ⚡ Real-time stock prices     via Socket.io live feed            ║
+ ║  🔐 JWT Auth + RBAC            Role-based access control          ║
+ ║  📊 Portfolio management       Track holdings & P&L               ║
+ ║  🛒 Order management           Buy / Sell / Limit orders          ║
+ ║  🖥️  Admin dashboard            Analytics, user controls          ║
+ ║  ☁️  Deployed on AWS            Production-ready infra            ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+ Tech → MongoDB · Express · React · Node.js · Socket.io · JWT · AWS
 ```
 
 <div align="center">
+<a href="https://github.com/kushagra9926/StockTraders">
+<img src="https://img.shields.io/badge/⌨  VIEW  REPOSITORY  →-4fc3f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a"/>
+</a>
+<br/><br/>
 
-[![btn](https://img.shields.io/badge/⌨%20EXPLORE%20REPOSITORY%20→-E3B341?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kushagra9926/Explainable-Credit-Scoring)
+<!-- ┌── PROJECT 2 ──────────────────────────────────────────────┐ -->
 
-</div>
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────-0a0e1a?style=flat-square" width="100%"/>
 
 <br/>
 
-<!-- ─────────── PROJECT 03 ─────────── -->
-<div align="center">
-
-[![p3](https://img.shields.io/badge/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬-0d1117?style=flat-square)](#)
-
-`03 / 05` &nbsp;**🎬 MOVIE RECOMMENDATION SYSTEM** &nbsp;
-[![done](https://img.shields.io/badge/●%20COMPLETED-F78166?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Movie-Recommendation-System)
-[![ml](https://img.shields.io/badge/Python-ML-F78166?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Movie-Recommendation-System)
-[![cbf](https://img.shields.io/badge/Content--Based-Filtering-F78166?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Movie-Recommendation-System)
+<img src="https://img.shields.io/badge/PROJECT%20%2302-EXPLAINABLE%20CREDIT%20SCORING-0a0e1a?style=for-the-badge&labelColor=4a2c00&color=0a0e1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/●%20ML%20RESEARCH-ffd54f?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/SHAP-ffd54f?style=flat-square&labelColor=0a0e1a&logo=python&logoColor=ffd54f"/>
+<img src="https://img.shields.io/badge/PSO%20Tuning-ffd54f?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/IEEE%20Target-ffd54f?style=flat-square&labelColor=0a0e1a"/>
 
 </div>
 
 ```
-  AI-powered movie recommender — discovers films tailored to your taste
+🧠  Explainable AI for Credit Scoring — Transparent ML for FinTech
 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🤖 ML recommendations    Content-based filter   🎯 Personalized║
-  ║  📊 Data-driven engine    Vast movie database    ⚡ Fast results ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  Python · Machine Learning · Content-Based Filtering · Pandas
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                      ✦  CORE FEATURES  ✦                         ║
+ ╠═══════════════════════════════════════════════════════════════════╣
+ ║  🤖 Gradient Boosting          PSO hyperparameter tuning          ║
+ ║  🔍 SHAP Explainability        Feature importance analysis        ║
+ ║  📊 UCI German Credit data     Real-world finance dataset         ║
+ ║  🎯 XAI Framework              Human-interpretable predictions    ║
+ ║  📄 IEEE Paper Target          Academic research quality          ║
+ ║  🏦 FinTech Focus              Bias detection & fairness          ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+ Tech → Python · Scikit-learn · SHAP · PSO · Pandas · Matplotlib
 ```
 
 <div align="center">
+<a href="https://github.com/kushagra9926/Explainable-Credit-Scoring">
+<img src="https://img.shields.io/badge/⌨  VIEW  REPOSITORY  →-ffd54f?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a"/>
+</a>
+<br/><br/>
 
-[![btn](https://img.shields.io/badge/⌨%20EXPLORE%20REPOSITORY%20→-F78166?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kushagra9926/Movie-Recommendation-System)
+<!-- ┌── PROJECT 3 ──────────────────────────────────────────────┐ -->
 
-</div>
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────-0a0e1a?style=flat-square" width="100%"/>
 
 <br/>
 
-<!-- ─────────── PROJECT 04 ─────────── -->
-<div align="center">
-
-[![p4](https://img.shields.io/badge/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬-0d1117?style=flat-square)](#)
-
-`04 / 05` &nbsp;**🌐 TRANSLATOR APP** &nbsp;
-[![done](https://img.shields.io/badge/●%20COMPLETED-3FB950?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Translator)
-[![js](https://img.shields.io/badge/JavaScript-API-3FB950?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Translator)
-[![multi](https://img.shields.io/badge/Multi--Language-Support-3FB950?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/Translator)
+<img src="https://img.shields.io/badge/PROJECT%20%2303-MOVIE%20RECOMMENDATION%20SYSTEM-0a0e1a?style=for-the-badge&labelColor=3e0a0a&color=0a0e1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/●%20COMPLETED-ef5350?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/Python-ef5350?style=flat-square&labelColor=0a0e1a&logo=python&logoColor=ef5350"/>
+<img src="https://img.shields.io/badge/ML%20Powered-ef5350?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/Content--Based-ef5350?style=flat-square&labelColor=0a0e1a"/>
 
 </div>
 
 ```
-  Real-time translator — break every language barrier instantly
+🎬  AI Movie Recommender — Discover films tailored to your taste
 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🌍 Multi-language        Instant translation    ⚡ Fast output  ║
-  ║  🎨 Clean minimal UI      Copy to clipboard      📱 Responsive   ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  JavaScript · HTML · CSS · Translation API
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                      ✦  CORE FEATURES  ✦                         ║
+ ╠═══════════════════════════════════════════════════════════════════╣
+ ║  🤖 ML recommendations         Content-based filtering            ║
+ ║  🎯 Personalized results       User taste analysis                ║
+ ║  📊 Data-driven engine         Large movie database               ║
+ ║  ⚡ Fast & accurate            Optimized recommendation logic     ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+ Tech → Python · Machine Learning · Content-Based Filtering · Pandas
 ```
 
 <div align="center">
+<a href="https://github.com/kushagra9926/Movie-Recommendation-System">
+<img src="https://img.shields.io/badge/⌨  VIEW  REPOSITORY  →-ef5350?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a"/>
+</a>
+<br/><br/>
 
-[![btn](https://img.shields.io/badge/⌨%20EXPLORE%20REPOSITORY%20→-3FB950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kushagra9926/Translator)
+<!-- ┌── PROJECT 4 ──────────────────────────────────────────────┐ -->
 
-</div>
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────-0a0e1a?style=flat-square" width="100%"/>
 
 <br/>
 
-<!-- ─────────── PROJECT 05 ─────────── -->
-<div align="center">
-
-[![p5](https://img.shields.io/badge/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬-0d1117?style=flat-square)](#)
-
-`05 / 05` &nbsp;**📚 C++ NOTES & DSA** &nbsp;
-[![oss](https://img.shields.io/badge/⭐%20OPEN%20SOURCE-D2A8FF?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/CPP)
-[![cpp](https://img.shields.io/badge/C++-OOP%20%7C%20STL-D2A8FF?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/CPP)
-[![dsa](https://img.shields.io/badge/DSA-Algorithms-D2A8FF?style=flat-square&labelColor=0d1117)](https://github.com/kushagra9926/CPP)
+<img src="https://img.shields.io/badge/PROJECT%20%2304-TRANSLATOR%20APP-0a0e1a?style=for-the-badge&labelColor=0a3d1f&color=0a0e1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/●%20COMPLETED-66bb6a?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/JavaScript-66bb6a?style=flat-square&labelColor=0a0e1a&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Multi--Language-66bb6a?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/Translation%20API-66bb6a?style=flat-square&labelColor=0a0e1a"/>
 
 </div>
 
 ```
-  Open-source C++ notes — helping the community learn DSA & beyond
+🌐  Real-Time Translator — Break every language barrier instantly
 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  📖 Core C++ & OOP        STL deep-dive          🧩 Patterns    ║
-  ║  🌲 Trees, Graphs & DP    Sorting & Searching    💡 Interview   ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  C++ · OOP · STL · Data Structures · Algorithms
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                      ✦  CORE FEATURES  ✦                         ║
+ ╠═══════════════════════════════════════════════════════════════════╣
+ ║  🌍 Multi-language support      Dozens of language pairs          ║
+ ║  ⚡ Real-time translation        Instant results, zero delay       ║
+ ║  🎨 Clean minimal UI            Intuitive, distraction-free       ║
+ ║  📋 Copy to clipboard           Mobile-first responsive design    ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+ Tech → JavaScript · HTML · CSS · Translation API
 ```
 
 <div align="center">
+<a href="https://github.com/kushagra9926/Translator">
+<img src="https://img.shields.io/badge/⌨  VIEW  REPOSITORY  →-66bb6a?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a"/>
+</a>
+<br/><br/>
 
-[![btn](https://img.shields.io/badge/⌨%20EXPLORE%20REPOSITORY%20→-D2A8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kushagra9926/CPP)
+<!-- ┌── PROJECT 5 ──────────────────────────────────────────────┐ -->
 
-[![p5end](https://img.shields.io/badge/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬-0d1117?style=flat-square)](#)
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────-0a0e1a?style=flat-square" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROJECT%20%2305-C%2B%2B%20NOTES%20%26%20DSA-0a0e1a?style=for-the-badge&labelColor=1a0a3d&color=0a0e1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⭐%20OPEN%20SOURCE-b39ddb?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/C++-b39ddb?style=flat-square&labelColor=0a0e1a&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/OOP%20%7C%20STL-b39ddb?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/DSA%20%7C%20Algo-b39ddb?style=flat-square&labelColor=0a0e1a"/>
+
+</div>
+
+```
+📚  Open-Source C++ Notes — Helping the community learn DSA & beyond
+
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                      ✦  WHAT'S INSIDE  ✦                         ║
+ ╠═══════════════════════════════════════════════════════════════════╣
+ ║  📖 Core C++ & OOP             Structured beginner-to-pro path    ║
+ ║  📦 STL deep-dive              Vectors, maps, sets & more         ║
+ ║  🌲 Trees, Graphs & DP         Pattern-based problem solving      ║
+ ║  🔍 Sorting & Searching        Classic algorithms explained       ║
+ ║  💡 Interview-ready DSA        Crack top tech company rounds      ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+ Tech → C++ · OOP · STL · Data Structures · Algorithms
+
+                     ⭐  Star it if it helps you!
+```
+
+<a href="https://github.com/kushagra9926/CPP">
+<img src="https://img.shields.io/badge/⌨  VIEW  REPOSITORY  →-b39ddb?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────-0a0e1a?style=flat-square" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ── GITHUB STATS ─────────────────────────────────────────── -->
+<!-- ════════════ GITHUB STATS ════════════ -->
 
 <h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagra9926&theme=github_dark" width="98%"/>
 
@@ -257,55 +326,96 @@ const kushagra = {
 
 <br/><br/>
 
-[![streak](https://streak-stats.demolab.com?user=kushagra9926&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kushagra9926&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=640&background=0A0E1A&ring=4FC3F7&fire=F78166&currStreakLabel=4FC3F7&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 <br/>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=kushagra9926&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&area_color=58A6FF&line=58A6FF&point=58A6FF)](https://github.com/kushagra9926)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagra9926&bg_color=0a0e1a&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&area_color=4fc3f7&hide_border=true&custom_title=📈%20Contribution%20Graph)](https://github.com/kushagra9926)
 
 </div>
 
 ---
 
-<!-- ── DSA JOURNEY ──────────────────────────────────────────── -->
+<!-- ════════════ DSA ════════════ -->
 
 <h2 align="center">⚔️ &nbsp;DSA Journey</h2>
 
+<br/>
+
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🖥️ **Language** | `C++` |
-| 🏅 **Platform** | CodeForces |
-| 📌 **Topics** | Arrays · Strings · Linked Lists · Trees · Graphs · DP · Greedy · Math |
-| 🎯 **Goal** | Competitive programming mastery & cracking top tech interviews |
-| 📚 **Notes** | [github.com/kushagra9926/CPP](https://github.com/kushagra9926/CPP) |
+<table>
+<tr>
+<td align="center" width="50%">
+
+```
+  ╔════════════════════════════════╗
+  ║     ⚔️  MY CP PROFILE          ║
+  ╠════════════════════════════════╣
+  ║  Lang     →  C++               ║
+  ║  Platform →  CodeForces        ║
+  ║  Style    →  Daily grinding    ║
+  ║  Focus    →  Interview + CP    ║
+  ╚════════════════════════════════╝
+```
+
+</td>
+<td align="center" width="50%">
+
+```
+  ╔════════════════════════════════╗
+  ║     📌  TOPICS COVERED         ║
+  ╠════════════════════════════════╣
+  ║  Arrays · Strings · LL         ║
+  ║  Trees · Graphs · Heaps        ║
+  ║  DP · Greedy · Math            ║
+  ║  Sorting · Searching · Hashing ║
+  ╚════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+[![Notes](https://img.shields.io/badge/C%2B%2B%20Notes-github.com%2Fkushagra9926%2FCPP-b39ddb?style=for-the-badge&logo=github&labelColor=0a0e1a)](https://github.com/kushagra9926/CPP)
+[![CF](https://img.shields.io/badge/CF%20Solutions-github.com%2Fkushagra9926%2FCodeForces__Problems-4fc3f7?style=for-the-badge&logo=github&labelColor=0a0e1a)](https://github.com/kushagra9926/CodeForces_Problems)
 
 <br/>
 
-> *"An expert is someone who has made all the mistakes in a very narrow field."*
+> 💬 *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
 
 </div>
 
 ---
 
-<!-- ── CONNECT ──────────────────────────────────────────────── -->
+<!-- ════════════ CONNECT ════════════ -->
 
-<h2 align="center">🤝 &nbsp;Let's Connect</h2>
+<h2 align="center">🤝 &nbsp;Let's Connect & Collaborate</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-joshi-9b9497258/)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshikushgra899@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagra9926)
+<br/>
+
+<a href="https://www.linkedin.com/in/kushagra-joshi-9b9497258/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:joshikushgra899@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/kushagra9926">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```
+  ✦  Open to Internships · Open Source Collabs · Freelance Projects  ✦
+```
 
 <br/>
 
-**💙 &nbsp;If my work or notes helped you — a ⭐ on the repo means the world!**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162032,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,25:0d2137,50:0a3d62,75:0d2137,100:0a0e1a&height=140&section=footer&animation=fadeIn"/>
 
 </div>
-
