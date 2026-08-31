@@ -238,7 +238,7 @@ const me = {
 <img src="https://img.shields.io/badge/PROJECT%20%2304-TRANSLATOR%20APP-0a0e1a?style=for-the-badge&labelColor=0a3d1f&color=0a0e1a"/>
 &nbsp;
 <img src="https://img.shields.io/badge/●%20COMPLETED-66bb6a?style=flat-square&labelColor=0a0e1a"/>
-<img src="https://img.shields.io/badge/JavaScript-66bb6a?style=flat-square&labelColor=0a0e1a&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-66bb6a?style=flat-square&labelColor=0a0e1a&logo=python&logoColor=66bb6a"/>
 <img src="https://img.shields.io/badge/Multi--Language-66bb6a?style=flat-square&labelColor=0a0e1a"/>
 <img src="https://img.shields.io/badge/Translation%20API-66bb6a?style=flat-square&labelColor=0a0e1a"/>
 
