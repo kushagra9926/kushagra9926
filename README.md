@@ -350,20 +350,6 @@ const me = {
 
 ```
   ╔════════════════════════════════╗
-  ║     ⚔️  MY CP PROFILE          ║
-  ╠════════════════════════════════╣
-  ║  Lang     →  C++               ║
-  ║  Platform →  CodeForces        ║
-  ║  Style    →  Daily grinding    ║
-  ║  Focus    →  Interview + CP    ║
-  ╚════════════════════════════════╝
-```
-
-</td>
-<td align="center" width="50%">
-
-```
-  ╔════════════════════════════════╗
   ║     📌  TOPICS COVERED         ║
   ╠════════════════════════════════╣
   ║  Arrays · Strings · LL         ║
